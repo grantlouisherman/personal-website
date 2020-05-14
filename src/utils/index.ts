@@ -127,7 +127,7 @@ export const personelLinksLayout = [{
   },
   {
     "key": "resume",
-    "link": "./../assets/resume.pdf",
+    "link": "https://drive.google.com/file/d/1CRsXUKuqKEzPvote33mvhiEBl_TGkCXx/view?usp=sharing",
     "icon": "../../assets/icon/resume.png",
     "download": true
   }
