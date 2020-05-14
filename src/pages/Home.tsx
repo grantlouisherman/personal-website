@@ -8,9 +8,6 @@ const Home: React.FC = () => {
     <IonPage>
       <IonContent>
         <IonHeader collapse="condense">
-          <IonToolbar>
-            <IonTitle size="large">Blank</IonTitle>
-          </IonToolbar>
         </IonHeader>
         <ExploreContainer />
       </IonContent>
