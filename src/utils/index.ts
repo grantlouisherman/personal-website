@@ -49,7 +49,7 @@ export const contributions = [
   },
   {
     title: "Open Source PRs",
-    cardContent: "List of PRs that I have had to various open source projevts",
+    cardContent: "List of PRs that I have had to various open source projects",
     Projects: [
       {
         src: "js-ipfs",
@@ -82,6 +82,12 @@ export const contributions = [
         description: "",
         link: "https://github.com/deckgo/deckdeckgo/pull/491",
       },
+      {
+        src: "Deck Deck Go",
+        type: "link",
+        description: "",
+        link: "https://github.com/deckgo/deckdeckgo/pull/1017/commits/4fb549f90de59ee2239ebaa5e2b26772004bb107"
+      }
     ],
   },
   {
