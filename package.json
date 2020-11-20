@@ -34,8 +34,9 @@
     "eject": "react-scripts eject"
   },
   "git": {
-  "scripts": {
-    "pre-push": "surge --project ./ --domain grant-herman-personal-website.surge.sh"
+    "scripts": {
+      "pre-push": "surge --project ./ --domain grant-herman-personal-website.surge.sh"
+    }
   },
   "eslintConfig": {
     "extends": "react-app"
