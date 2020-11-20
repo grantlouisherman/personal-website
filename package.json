@@ -33,6 +33,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "git": {
+  "scripts": {
+    "pre-push": "surge --project ./ --domain grant-herman-personal-website.surge.sh"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -49,7 +53,9 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.1.0"
+    "@capacitor/cli": "2.1.0",
+    "git-scripts": "^0.4.3",
+    "surge": "^0.21.7"
   },
   "description": "An Ionic project"
 }
